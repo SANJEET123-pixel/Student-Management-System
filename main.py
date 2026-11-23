@@ -6,4 +6,8 @@ print("Welcome", name)
 age = int(input("Enter your age: "))
 print("Age of", name , "is", age)
 
-print("Thanks")
+def attendance():
+    print("Student attendance feature")
+
+attendance()
+
